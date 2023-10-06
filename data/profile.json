@@ -1,25 +1,33 @@
 {
-  "name": "",
-  "photo": "",
-  "location": "",
-  "email": "",
+  "name": "Marcella Costa",
+  "photo": "https://avatars.githubusercontent.com/u/79029735?v=4",
+  "location": "Guarabira, Paraíba, Brasil",
+  "email": "marcelladacosta@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "JavaScript",
-        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/js.png"
+        "name": "docker",
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/docker.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/css.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/react.png"
+        "name": "python",
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/python.png"
       },
       {
         "name": "git",
-        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/git.png"
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/git.png"
+      },
+      {
+        "name": "github",
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/github.png"
+      },
+      {
+        "name": "postgresql",
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/postgresql.png"
+      },
+      {
+        "name": "vscode",
+        "logo": "https://github.com/marcellacg/portifolio/blob/master/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
@@ -43,6 +51,36 @@
       "name": "",
       "url": "",
       "github": true
+    }
+  ],
+
+  "professionalExperience": [
+    {
+      "nome": "Auxiliar de biblioteca",
+      "descricao": "As principais atividades incluíam o gerenciamento de livros: empréstimo, devoluções, etiquetagem e armazenamento de livros.",
+      "instituicao": "Universidade Estadual da Paraíba (UEPB)",
+      "periodo": {
+        "inicio": "2011",
+        "fim": "2014"
+      }
+    },
+    {
+      "nome": "Auxiliar de secretaria",
+      "descricao": "As atividades incluíam: destinar correspondências, agendar eventos e reuniões no auditório, redigir ofícios e resguardar documentos relacionados à administração do setor.",
+      "instituicao": "Universidade Estadual da Paraíba (UEPB)",
+      "periodo": {
+        "inicio": "2014",
+        "fim": "2018"
+      }
+    },
+    {
+      "nome": "Professora de idiomas",
+      "descricao": "Planejamento e execução de aulas de idiomas (especificamente a língua espanhola)",
+      "instituicao": "CNA",
+      "periodo": {
+        "inicio": "2019",
+        "fim": "2019"
+      }
     }
   ]
   
