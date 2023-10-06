@@ -31,25 +31,26 @@
       }
     ],
     "softSkills": [
-      "",
-      "",
-      "",
-      ""
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
     ]
   },
   "languages": [
-    "",
-    ""
+    "Português fluente",
+    "Espanhol avançado",
+    "Inglês intermediário"
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "PetConfy",
+      "url": "https://github.com/marcellacg/petconfy",
       "github": true
     },
     {
-      "name": "",
-      "url": "",
+      "name": "Webscraping com BeautifulSoup",
+      "url": "https://github.com/marcellacg/webscraping-com-beautifulSoup",
       "github": true
     }
   ],
