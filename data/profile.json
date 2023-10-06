@@ -1,0 +1,49 @@
+{
+  "name": "",
+  "photo": "",
+  "location": "",
+  "email": "",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/css.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/react.png"
+      },
+      {
+        "name": "git",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "languages": [
+    "",
+    ""
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "url": "",
+      "github": true
+    },
+    {
+      "name": "",
+      "url": "",
+      "github": true
+    }
+  ]
+  
+}
